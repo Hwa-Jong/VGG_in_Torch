@@ -8,7 +8,9 @@
 
 ----------------
 ## Usage
+> ```
 > python3 training.py
+> ```
 
 ----------------
 ## Result 
